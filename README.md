@@ -6,7 +6,8 @@ $ ./rec
 ### Como executar mutex
 $g++ -std=c++11 mutex.cpp -o rec -
 
-$ ./
+$ ./rec
 ### Como executar  arquivo process
+$ gcc process.cpp -o rec -lpthread
 
-$./rec
+$ ./rec
